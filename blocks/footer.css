@@ -30,7 +30,7 @@
   font-size: 16px;
   line-height: 20px;
 }
-.footer__content-content-social {
+.footer__content-content-footer__social {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
